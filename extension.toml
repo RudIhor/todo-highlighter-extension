@@ -1,0 +1,7 @@
+id = "todo-highlighter"
+name = "TODO Highlighter"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ihor Rud Igorryd7@gmail.com"]
+description = "Simple TODO Highlighter for your tasks"
+repository = "https://github.com/RudIhor/todo-highlighter-extension"
